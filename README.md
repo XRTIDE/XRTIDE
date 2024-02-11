@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @XRTIDE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+こんにちは、閻です！👋
 
-<!---
-XRTIDE/XRTIDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+XRに興味を持つ開発者です。
+より没入感のあるXRアプリケーションを提供し、現実世界の問題を解決することに力を注いでいます。
+
+🌱 スキル
+
+Python、C++、Swiftなど、複数のプログラミング言語に利用しています。
+Xcode、Unityのエディターツールを使った経験があります。
+アルゴリズムの強い理解を持っています。
+
+💬 連絡
+
+同じ志を持つ友人と知り合うことを進んでいます。
