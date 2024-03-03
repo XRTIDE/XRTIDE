@@ -14,5 +14,5 @@ Xcode、Unity等のエディターツールについて経験を持って、AR�
   <a href="https://www.youtube.com/@XRTIDE"><img src="https://img.shields.io/badge/Youtube-@XRTIDE-blue" /></a>
   <a href="https://space.bilibili.com/3546571058711178"><img src="https://img.shields.io/badge/Bilibili-@XR潮汐-blue" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/5c7f669200000000160081c9"><img src="https://img.shields.io/badge/Redbook-@XR潮汐-blue" /></a>
-  <a href="http://www.xrtude.com"><img src="https://img.shields.io/badge/Website-@XRTIDE-5f9ea0" /></a>
+  <a href="http://www.xrtide.com"><img src="https://img.shields.io/badge/Website-@XRTIDE-5f9ea0" /></a>
 </p>
